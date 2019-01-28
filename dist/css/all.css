@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+a:hover {
+  color: grey;
+}
+
+.wild-link, .wild-link:hover {
+  color: lightcoral;
+}
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+}

@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+a:hover {
+  color: grey;
+}
+
+.wild-link, .wild-link:hover {
+  color: lightcoral;
+}
